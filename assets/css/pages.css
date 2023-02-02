@@ -2250,3 +2250,5 @@ body, #container-wrap { background:#261b19; }
 	border:solid 2.7px #9d5b37;
 }
 #in5footer,  #prefooter {display:none;}
+
+#loadIndicator{display:none;}
